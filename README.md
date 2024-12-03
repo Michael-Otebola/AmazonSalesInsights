@@ -46,6 +46,8 @@ plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.show()
 ```
+Find Full Python Code & EDA Here: https://github.com/Michael-Otebola/AmazonSalesInsights/blob/5ef3f083b7c0149d5c36fa1abb51d2ca7586ea61/Amazon_Sales_Report.ipynb
+
 _This code creates a grouped bar plot to visualize total sales (Amount) by Category and Size, making it easier to compare sales performance across different categories and sizes with a clear, readable format._
 
 ---
